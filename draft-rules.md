@@ -64,4 +64,7 @@ Liberlunaのリーダーは、ぽちとする。</p>
 プロジェクトを開始するには、Liberlunaでの決定を必要とする。</p>
 <h2 id="このルールについて">このルールについて</h2>
 <p>このルールは、Liberlunaの決定により、変更されるものとする。</p>
+<blockquote>
+<p>Blockquote</p>
+</blockquote>
 
