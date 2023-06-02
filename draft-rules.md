@@ -1,4 +1,3 @@
-
 # Liberluna ルール案
 この文章は、Liberlunaのルール。Liberlunaメンバーはこれに従うことを求められる。
 ## 人に関する構成
